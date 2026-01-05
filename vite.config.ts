@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   // GitHub Pages serves the app from /<repo>/, not /
   plugins: [react()],
-  base: '/RJWeb/',
+  base: '/RJWeb',
 })
