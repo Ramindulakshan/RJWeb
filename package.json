@@ -1,5 +1,6 @@
 {
   "name": "magic-patterns-vite-template",
+  "homepage": "https://ramindulakshan.github.io/RJWeb/",
   "version": "0.0.1",
   "private": true,
   "type": "module",
@@ -12,6 +13,7 @@
   "dependencies": {
     "@openai/codex-sdk": "^0.77.0",
     "framer-motion": "^11.5.4",
+    "gh-pages": "^6.3.0",
     "lucide-react": "0.522.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
